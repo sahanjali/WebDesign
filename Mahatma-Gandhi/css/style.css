@@ -1,0 +1,37 @@
+body {
+    background:black;
+    color:beige;
+}
+#main {
+    width: 80%;
+    margin: auto;
+    height: 700px;
+}
+#title {
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+#title:hover {
+    color: brown;
+} 
+
+.img-caption {
+    width: 80%;
+    border-radius: 20px;
+
+}
+#img-caption  {
+    font-size: 30px;
+}
+p {
+    margin-top: auto;
+    font-size: 25px;
+    line-height: 1.2;
+}
+.cursive {
+    font-family: cursive;
+}
+li {
+    font-size:25px;
+}
